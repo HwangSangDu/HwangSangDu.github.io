@@ -208,7 +208,7 @@ prose:
     - /css
     - /img
     - /js
-    - _posts/2015-02*
+    - /2015-02*
   metadata:
     _posts:
       - name: "layout"
