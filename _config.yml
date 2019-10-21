@@ -66,10 +66,10 @@ author:
 # You can reorder the items to define the link order.
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
-  rss: true
+#  rss: true
   email: "ghkdtkden93@naver.com"
 #  facebook:
-  github: https://github.com/HwangSangDu
+  github: HwangSangDu
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
@@ -85,9 +85,9 @@ social-network-links:
 
 # Select which share links to show in posts
 share-links-active:
-  twitter: true
+#  twitter: true
 #  facebook: true
-  linkedin: true
+#  linkedin: true
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
@@ -196,7 +196,7 @@ exclude:
 
 # prose.io config
 prose:
-  rooturl: '_postttt'
+  rooturl: '_posts'
   media: 'img'
   ignore:
     - 404.html
