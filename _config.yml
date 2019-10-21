@@ -4,14 +4,14 @@
 title: Website Of Adam
 
 # Short description of your site
-description: A virtual proof that I'm awesome
+# description: A virtual proof that I'm awesome
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
 # *** If you're not sure what this mean, then leave this section as it is. Only modify the url and baseurl if you know what you're doing!***
 
 # url is the the website domain URL without a trailing slash
-#url: "https://example.com"
+# url: "https://example.com"
 
 # baseurl should be an empty string
 #baseurl: ""
@@ -22,7 +22,7 @@ description: A virtual proof that I'm awesome
 navbar-links:
   About Me: "https://sharp-include.tistory.com/3"
   Resources:
-    - 포트폴리오 : "https://sharp-include.tistory.com/3"
+#    - 포트폴리오 : "https://sharp-include.tistory.com/3"
   
 
 # Image to show in the navigation bar - image must be a square (width = height)
@@ -68,7 +68,7 @@ author:
 social-network-links:
   rss: true
   email: "ghkdtkden93@naver.com"
-  facebook:
+#  facebook:
   github: https://github.com/HwangSangDu
 #  reddit: yourname
 #  linkedin: daattali
@@ -208,6 +208,7 @@ prose:
     - /css
     - /img
     - /js
+    - _posts/2015-02*
   metadata:
     _posts:
       - name: "layout"
