@@ -208,9 +208,9 @@ prose:
     - /css
     - /img
     - /js
-    - /_posts/2015-02*
+    - /_posts
   metadata:
-    _posts:
+    _post:
       - name: "layout"
         field:
           element: "hidden"
