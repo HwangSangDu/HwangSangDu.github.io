@@ -208,7 +208,6 @@ prose:
     - /css
     - /img
     - /js
-    - /_posts
   metadata:
     _posts:
       - name: "layout"
